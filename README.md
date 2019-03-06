@@ -11,7 +11,7 @@ This docker container is running a full fledged SSH server (OpenSSH) in order to
 
 ## Running
 ```bash
-./run.sh
+./run_docker.sh
 ```
 
 ## Snips explanation
