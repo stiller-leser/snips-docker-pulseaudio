@@ -6,7 +6,7 @@ This docker container is running a full fledged SSH server (OpenSSH) in order to
 
 ## Building
 ```bash
-./buid_image.sh
+./build_image.sh
 ```
 
 ## Running
