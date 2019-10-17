@@ -1,4 +1,6 @@
-# Docker PulseAudio Example
+# DEPRECATED! Snips now provides their own: https://github.com/snipsco/snips-platform-docker
+
+## Docker PulseAudio Example
 Snips in a docker container with audio via PulseAudio. This is based on [docker-pulseaudio-example](https://github.com/TheBiggerGuy/docker-pulseaudio-example) and [snips-docker](https://github.com/dYalib/snips-docker). Since this is using PulseAudio, be sure that you have a running configuration.
 
 ## Dangers!
